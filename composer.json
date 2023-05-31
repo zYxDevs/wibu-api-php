@@ -3,6 +3,16 @@
     "description": "Official PHP Wrapper for Wibu API",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "package",
+        "anime",
+        "manga",
+        "wibu",
+        "otaku",
+        "weebs",
+        "autoload"
+    ],
+    "homepage": "https://wibu-api.eu.org/",
     "authors": [
         {
             "name": "Yoga Pranata",
