@@ -1,0 +1,22 @@
+{
+    "name": "zyxdevs/wibuapi",
+    "description": "Official PHP Wrapper for Wibu API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoga Pranata",
+            "email": "yoga@zyxdevs.eu.org"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "zyxdevs\\wibuapi\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
