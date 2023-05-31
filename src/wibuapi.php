@@ -165,8 +165,4 @@ class WibuAPI {
     }
 }
 
-// Usage:
-$api = new WibuAPI();
-$result = $api->lendrive("your_link_here");
-echo $result;
 ?>
