@@ -24,9 +24,14 @@
     },
     "autoload": {
         "psr-4": {
-            "zyxdevs\\wibuapi\\": "src/"
+            "wibuapi\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
